@@ -1,5 +1,5 @@
-use jwks_client::error::{Error, Type};
-use jwks_client::keyset::KeyStore;
+use jwksclient2::error::{Error, Type};
+use jwksclient2::keyset::KeyStore;
 
 #[rustfmt::skip]
 #[tokio::main]
