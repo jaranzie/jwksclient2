@@ -1,6 +1,6 @@
 use serde::Deserialize;
 
-use jwks_client::keyset::KeyStore;
+use jwksclient2::keyset::KeyStore;
 
 #[tokio::main]
 async fn main() {
