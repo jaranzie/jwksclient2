@@ -1,3 +1,5 @@
+The original version of this crate hasn't been updated in a while. This is especially impactful since the original includes a lock file, and the version specified for ring is unmaintained and has a outstanding RUST SEC advisory.
+
 [![Build Status](https://travis-ci.com/jfbilodeau/jwks-client.svg?branch=master)](https://travis-ci.com/jfbilodeau/jwks-client) [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License:Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache-2.0) ![Minimum rustc version](https://img.shields.io/badge/rustc-stable-success.svg)
 
 JWKS-Client is a library written in Rust to decode and validate JWT tokens using a JSON Web Key Store.
